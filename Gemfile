@@ -27,6 +27,8 @@ gem 'jbuilder', '~> 2.5'
 # gem 'bcrypt', '~> 3.1.7'
 gem 'carrierwave', '~> 2.0'
 gem 'faker', '~> 2.1', '>= 2.1.2'
+gem 'fog'
+gem 'figaro'
 
 # Use ActiveStorage variant
 # gem 'mini_magick', '~> 4.8'
